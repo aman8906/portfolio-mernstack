@@ -89,7 +89,7 @@ const projectData = [
     name: "E-Commerce Website",
     image: "/ecommerce.png",
     description: "MERN stack e-commerce with user login, cart, and Stripe payment gateway.",
-    videoLink: "https://youtu.be/2-JQ1aLCL70 ",
+    videoLink: "https://e-commerce-delta-gold.vercel.app/ ",
     codeLink: "https://github.com/aman8906/E-Commerce",
   },
   {
@@ -129,7 +129,7 @@ const projectData = [
     name: "Weather App",
     image: "/weather.png",
     description: "React app using OpenWeatherMap API to show current weather by city.",
-    videoLink: "https://youtu.be/MIYQR-Ybrn4",
+    videoLink: "https://weat-her-a-pp.netlify.app/",
     codeLink: "https://github.com/aman8906/Weather-App",
   },
 ];
