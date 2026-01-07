@@ -105,7 +105,7 @@ const projectData = [
     name: "Portfolio Website",
     image: "/portfolio.png",
     description: "Responsive personal portfolio built using React and deployed on Netlify.",
-    videoLink: "https://scintillating-seahorse-5ca99e.netlify.app/ ",
+    videoLink: "https://p-ortfolio-personal.netlify.app/ ",
     codeLink: "https://github.com/aman8906/Personal-Portfolio",
   },
   {
