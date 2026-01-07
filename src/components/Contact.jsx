@@ -14,14 +14,14 @@ function Contact() {
   const onSubmit = async (data) => {
     try {
       await emailjs.send(
-        "YOUR_SERVICE_ID",     // 🔴 replace
-        "YOUR_TEMPLATE_ID",    // 🔴 replace
+       "service_5txu0p4",
+      "template_thwyazk",
         {
           name: data.name,
           email: data.email,
           message: data.message,
         },
-        "YOUR_PUBLIC_KEY"      // 🔴 replace
+        "_xsHVIk1wjvpnkVN5"
       );
 
       toast.success("✅ Your message has been sent!");
