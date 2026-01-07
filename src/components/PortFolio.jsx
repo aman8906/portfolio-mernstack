@@ -90,7 +90,7 @@ const projectData = [
     image: "/ecommerce.png",
     description: "MERN stack e-commerce with user login, cart, and Stripe payment gateway.",
     videoLink: "https://youtu.be/2-JQ1aLCL70 ",
-    codeLink: "https://github.com/abhishekpatel946/E-commerce-MERN",
+    codeLink: "https://github.com/aman8906/E-Commerce",
   },
   {
     id: 2,
@@ -98,7 +98,7 @@ const projectData = [
     image: "/blog.png",
     description: "Full-stack blog platform with admin panel, post editor, and MongoDB storage.",
     videoLink: "https://youtu.be/Wv1Mx3KcQ4M ",
-    codeLink: "https://github.com/safak/youtube2022-blog",
+    codeLink: "https://github.com/aman8906/Blog-App",
   },
   {
     id: 3,
@@ -106,7 +106,7 @@ const projectData = [
     image: "/portfolio.png",
     description: "Responsive personal portfolio built using React and deployed on Netlify.",
     videoLink: "https://scintillating-seahorse-5ca99e.netlify.app/ ",
-    codeLink: "https://github.com/yourusername/portfolio",
+    codeLink: "https://github.com/aman8906/Personal-Portfolio",
   },
   {
     id: 4,
@@ -122,7 +122,7 @@ const projectData = [
     image: "/chat.png",
     description: "Real-time chat application using Socket.IO, Node.js, and MongoDB.",
     videoLink: "https://youtu.be/ZWfEzpKfRBg ",
-    codeLink: "https://github.com/laithharb/mern-chat-app",
+    codeLink: "https://github.com/aman8906/ChatApp",
   },
   {
     id: 6,
@@ -130,7 +130,7 @@ const projectData = [
     image: "/weather.png",
     description: "React app using OpenWeatherMap API to show current weather by city.",
     videoLink: "https://youtu.be/MIYQR-Ybrn4",
-    codeLink: "https://github.com/developedbyed/weather-app",
+    codeLink: "https://github.com/aman8906/Weather-App",
   },
 ];
 
